@@ -1,4 +1,4 @@
-# yolo
+# .shp-->yolo_label
 将ArcGis的shp文件的地理坐标转为yolo的label
 
 首先在ArcGis上对一个.tif的图片进行标注后，
