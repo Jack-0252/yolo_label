@@ -26,3 +26,5 @@
 运行“yolo_label_verify”可以对生成的yolo_label.txt进行验证。验证准确性。
 输入.tif图像的位置，以及运行“xlsx--yolo_label.txt.ipynb”所得到的“yolo_label_path.txt”的位置。
 输出'output_kuang.png'带框的png图片，对框的大小及位置进行验证。
+
+基于chatgpt-4o
