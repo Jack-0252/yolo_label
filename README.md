@@ -35,4 +35,10 @@
 运行“shp按框裁剪.ipynb”，输入.shp\.tif，在output_folder文件夹中输出多个子文件夹，
 每个子文件夹中保存小的tif以及对应的shp文件。便于在ArcGis中打开
 
+## 多个.shp文件拼接为一个整体的shp文件\2024年7月3日
+运行“多shp拼接为整体.ipynb”
+输入“shp按框裁剪.ipynb”运行得到的output_folder文件夹（包括多个子文件夹，内含有裁剪出的小图tif与对应的shp文件）
+确定地理坐标系，这里使用WGS84（即EPSG:4326）
+确定输出．shp（整体的shp文件）的位置。
+
 基于chatgpt-4o
