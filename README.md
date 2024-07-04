@@ -41,7 +41,7 @@
 因为我运行拼接shp的代码输出的merge.shp与ArcGIS标注输出的output.shp文件打开是完全一致的
 优化：新的plus代码在裁剪时使用的外接矩形来进行裁剪，不存在变换角度与形状的问题，但标注的图像范围稍大了一点。
 ## .shp按框的外接矩形批量裁剪plus\2024年7月4日
-输入input_tif 的位置、input_shp 的位置，在output_dir文件夹中输出按外接矩形裁的图片。
+运行“shp按框的外接矩形裁剪plus”.ipynb,输入input_tif 的位置、input_shp 的位置，在output_dir文件夹中输出按外接矩形裁的图片。
 
 ## 多个.shp文件拼接为一个整体的shp文件\2024年7月3日
 运行“多shp拼接为整体.ipynb”
