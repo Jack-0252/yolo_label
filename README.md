@@ -1,6 +1,9 @@
 # .shp<-->yolo_label
 将ArcGis的shp文件的地理坐标与yolo的label.txt相互转换：
 
+## 切割+替换/早期
+运行“切割+替换.ipynb”，将一张大图切割成具体的尺寸的小图，并把改后缀为jpg便于yolo处理。
+
 ## .shp-->yolo_label
 首先在ArcGis上对一个.tif的图片进行标注后，
 输出带有.shp的文件，这个文件记录了标注的所有框的地理坐标。
