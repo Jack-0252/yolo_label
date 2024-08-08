@@ -31,7 +31,7 @@
 输入.tif图像的位置，以及运行“xlsx--yolo_label.txt.ipynb”所得到的“yolo_label_path.txt”的位置。
 输出'output_kuang.png'带框的png图片，对框的大小及位置进行验证。
 
-## .shp-->yolo_label
+## yolo_label-->.shp
 运行“yolo.txt--shp.ipynb”，输入.tif\.tfw\.label.txt，在output_shp_path文件夹中输出对应的shp等文件
 
 ## .shp将框中图像批量裁剪
