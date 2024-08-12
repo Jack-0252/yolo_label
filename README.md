@@ -11,7 +11,7 @@
 运行“shp--xlsx.ipynb”，输入.shp文件的位置，输出所有框的四个点的经纬坐标的xlsx。
 
 运行“xlsx--yolo_label.txt.ipynb”，
-输入原tif图像对应的tfw文件中的6个值
+输入原tif图像对应的tfw文件中的6个值<br/>
  “A像素大小，水平）<br/>
   𝐷（像素大小，垂直，通常为负数）<br/>
   𝐵（旋转项，行方向）<br/>
